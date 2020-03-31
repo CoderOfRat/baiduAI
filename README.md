@@ -1,6 +1,6 @@
 # baiduAI 颜值测试
 基于百度AI接口的颜值评分小程序
-
+小程序已审核通过： 测测颜值AI
 ![view1](./images/demo_view/view1.png)
 
 ### 参考文档
